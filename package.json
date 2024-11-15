@@ -1,63 +1,48 @@
 {
-  "name": "@sigma/root",
-  "description": "A JavaScript library aimed at visualizing graphs of thousands of nodes and edges.",
-  "homepage": "https://www.sigmajs.org",
-  "bugs": "http://github.com/jacomyal/sigma.js/issues",
-  "workspaces": [
-    "packages/*"
-  ],
+  "name": "@sigma/demo",
+  "private": true,
+  "homepage": "/demo",
   "scripts": {
-    "clean": "npm exec --workspaces -- npx rimraf node_modules && npx rimraf node_modules",
-    "build": "preconstruct build && npm run build-bundle --workspace=sigma",
-    "prettify": "prettier --write .",
-    "lint": "eslint .",
-    "test": "npm run test --workspace=@sigma/test",
-    "start": "preconstruct dev && npm run start --workspace=@sigma/storybook",
-    "createPackage": "ts-node bin/create-package.ts",
-    "postinstall": "preconstruct dev",
-    "postpublish": "preconstruct dev",
-    "website:build": "npm run build --workspace=@sigma/website && npm run build --workspace=@sigma/demo && cp -R packages/demo/build packages/website/build/demo && npm run build --workspace=@sigma/storybook && cp -R packages/storybook/storybook-static packages/website/build/storybook",
-    "prepublishOnly": "npm run test && npm run build && npm run lint"
+    "start": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "dependencies": {
+    "@react-sigma/core": "^4.0.3",
+    "@sigma/node-image": ">=3.0.0-beta.15",
+    "graphology": "^0.25.4",
+    "graphology-layout-forceatlas2": "^0.10.1",
+    "graphology-types": "^0.24.7",
+    "lodash": "^4.17.21",
+    "react": "^18.3.1",
+    "react-animate-height": "^3.2.3",
+    "react-dom": "^18.3.1",
+    "react-icons": "^5.3.0"
+  },
+  "peerDependencies": {
+    "sigma": ">=3.0.0-beta.33"
   },
   "devDependencies": {
-    "@babel/core": "^7.26.0",
-    "@babel/preset-typescript": "^7.26.0",
-    "@eslint/compat": "^1.2.2",
-    "@eslint/eslintrc": "^3.1.0",
-    "@eslint/js": "^9.13.0",
-    "@preconstruct/cli": "^2.8.9",
-    "@trivago/prettier-plugin-sort-imports": "^4.3.0",
-    "@typescript-eslint/eslint-plugin": "^8.12.2",
-    "@typescript-eslint/parser": "^8.12.2",
-    "eslint": "^9.13.0",
-    "eslint-config-prettier": "^9.1.0",
-    "eslint-plugin-import": "^2.31.0",
-    "eslint-plugin-prettier": "^5.2.1",
-    "eslint-plugin-storybook": "^0.10.1",
-    "globals": "^15.11.0",
-    "lerna": "^8.1.8",
-    "prettier": "^3.3.3",
-    "rimraf": "^6.0.1",
-    "ts-node": "^10.9.2",
+    "@types/lodash": "^4.17.12",
+    "@types/node": "^22.8.2",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "@vitejs/plugin-react": "^4.3.3",
     "typescript": "^5.6.3",
-    "typescript-eslint": "^8.12.2"
-  },
-  "preconstruct": {
-    "packages": [
-      "packages/sigma",
-      "packages/node-border",
-      "packages/node-image",
-      "packages/node-piechart",
-      "packages/node-square",
-      "packages/edge-curve",
-      "packages/layer-leaflet",
-      "packages/layer-maplibre",
-      "packages/layer-webgl",
-      "packages/export-image",
-      "packages/utils"
-    ],
-    "exports": {
-      "importConditionDefaultExport": "default"
-    }
+    "vite": "^5.4.10",
+    "vite-plugin-checker": "^0.8.0",
+    "vite-tsconfig-paths": "^5.0.1"
   }
 }
