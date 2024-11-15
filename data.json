@@ -1,0 +1,4532 @@
+{
+  "attributes": {
+    "creator": "Gephi 0.10.1"
+  },
+  "options": {
+    "multi": false,
+    "allowSelfLoops": true,
+    "type": "directed"
+  },
+  "nodes": [
+    {
+      "key": "1",
+      "attributes": {
+        "label": "BioTexCom Clinic",
+        "x": 746.09625,
+        "y": -972.581,
+        "size": 300.0,
+        "color": "#a5dce7",
+        "type": "Clinic",
+        "punctuation": "Organization"
+      }
+    },
+    {
+      "key": "2",
+      "attributes": {
+        "label": "Medical Staff",
+        "x": -2483.004,
+        "y": 1165.3315,
+        "size": 300.0,
+        "color": "#a5dce7",
+        "type": "Clinic",
+        "punctuation": "Individual"
+      }
+    },
+    {
+      "key": "3",
+      "attributes": {
+        "label": "Legal and Compliance Team",
+        "x": 1067.1139,
+        "y": 501.41983,
+        "size": 300.0,
+        "color": "#a5dce7",
+        "type": "Clinic",
+        "punctuation": "Individual"
+      }
+    },
+    {
+      "key": "4",
+      "attributes": {
+        "label": "Administrative Staff",
+        "x": -613.28265,
+        "y": -1982.4033,
+        "size": 300.0,
+        "color": "#a5dce7",
+        "type": "Clinic",
+        "punctuation": "Individual"
+      }
+    },
+    {
+      "key": "5",
+      "attributes": {
+        "label": "Marketing and International Liaisons",
+        "x": -438.98303,
+        "y": -799.8994,
+        "size": 300.0,
+        "color": "#a5dce7",
+        "type": "Clinic",
+        "punctuation": "Individual"
+      }
+    },
+    {
+      "key": "6",
+      "attributes": {
+        "label": "Limited Support Staff",
+        "x": 2273.8992,
+        "y": 1209.9194,
+        "size": 300.0,
+        "color": "#a5dce7",
+        "type": "Clinic",
+        "punctuation": "Individual"
+      }
+    },
+    {
+      "key": "7",
+      "attributes": {
+        "label": "Surrogate Mothers",
+        "x": 83.39269,
+        "y": -1478.0548,
+        "size": 300.0,
+        "color": "#ffc08d",
+        "type": "Surrogate",
+        "punctuation": "Organization"
+      }
+    },
+    {
+      "key": "8",
+      "attributes": {
+        "label": "Economically Motivated Surrogates",
+        "x": 2131.6252,
+        "y": 434.31433,
+        "size": 300.0,
+        "color": "#ffc08d",
+        "type": "Surrogate",
+        "punctuation": "Individual"
+      }
+    },
+    {
+      "key": "9",
+      "attributes": {
+        "label": "Conflict Resilient Surrogates",
+        "x": -940.4469,
+        "y": 2326.3364,
+        "size": 300.0,
+        "color": "#ffc08d",
+        "type": "Surrogate",
+        "punctuation": "Individual"
+      }
+    },
+    {
+      "key": "10",
+      "attributes": {
+        "label": "Experienced Surrogates",
+        "x": -2506.9434,
+        "y": -181.1351,
+        "size": 300.0,
+        "color": "#ffc08d",
+        "type": "Surrogate",
+        "punctuation": "Individual"
+      }
+    },
+    {
+      "key": "11",
+      "attributes": {
+        "label": "First Time Surrogates",
+        "x": -1849.9956,
+        "y": 2815.6938,
+        "size": 300.0,
+        "color": "#ffc08d",
+        "type": "Surrogate",
+        "punctuation": "Individual"
+      }
+    },
+    {
+      "key": "12",
+      "attributes": {
+        "label": "Non-Governmental Organizations",
+        "x": -1059.8511,
+        "y": -379.5223,
+        "size": 300.0,
+        "color": "#eecc80",
+        "type": "NOGs",
+        "punctuation": "Organization"
+      }
+    },
+    {
+      "key": "13",
+      "attributes": {
+        "label": "La Strada Ukraine",
+        "x": -1951.146,
+        "y": 2094.01,
+        "size": 300.0,
+        "color": "#eecc80",
+        "type": "NOGs",
+        "punctuation": "Individual"
+      }
+    },
+    {
+      "key": "14",
+      "attributes": {
+        "label": "Human Rights Watch",
+        "x": 1239.7892,
+        "y": -220.09677,
+        "size": 300.0,
+        "color": "#eecc80",
+        "type": "NOGs",
+        "punctuation": "Individual"
+      }
+    },
+    {
+      "key": "15",
+      "attributes": {
+        "label": "Stop Surrogacy Now",
+        "x": -373.2522,
+        "y": 3509.1997,
+        "size": 300.0,
+        "color": "#eecc80",
+        "type": "NOGs",
+        "punctuation": "Individual"
+      }
+    },
+    {
+      "key": "16",
+      "attributes": {
+        "label": "Tourism Agencies",
+        "x": -1371.5353,
+        "y": -1646.4443,
+        "size": 300.0,
+        "color": "#dcccaf",
+        "type": "Tourism",
+        "punctuation": "Organization"
+      }
+    },
+    {
+      "key": "17",
+      "attributes": {
+        "label": "IVF Travel",
+        "x": 1605.0917,
+        "y": 1260.6793,
+        "size": 300.0,
+        "color": "#dcccaf",
+        "type": "Tourism",
+        "punctuation": "Individual"
+      }
+    },
+    {
+      "key": "18",
+      "attributes": {
+        "label": "Tammuz Family",
+        "x": -1741.1409,
+        "y": -879.1791,
+        "size": 300.0,
+        "color": "#dcccaf",
+        "type": "Tourism",
+        "punctuation": "Individual"
+      }
+    },
+    {
+      "key": "19",
+      "attributes": {
+        "label": "Egg Donor \u0026 Surrogacy Institute",
+        "x": 1104.8013,
+        "y": 1931.6622,
+        "size": 300.0,
+        "color": "#dcccaf",
+        "type": "Tourism",
+        "punctuation": "Individual"
+      }
+    },
+    {
+      "key": "20",
+      "attributes": {
+        "label": "Ukrainian Legal Frameworks",
+        "x": -1430.7843,
+        "y": 708.99896,
+        "size": 300.0,
+        "color": "#c2e189",
+        "type": "Ukranian",
+        "punctuation": "Organization"
+      }
+    },
+    {
+      "key": "21",
+      "attributes": {
+        "label": "Health Ministry Regulations",
+        "x": -364.62152,
+        "y": -2676.7603,
+        "size": 300.0,
+        "color": "#c2e189",
+        "type": "Ukranian",
+        "punctuation": "Individual"
+      }
+    },
+    {
+      "key": "22",
+      "attributes": {
+        "label": "Family Law Code",
+        "x": 474.14813,
+        "y": 996.70154,
+        "size": 300.0,
+        "color": "#c2e189",
+        "type": "Ukranian",
+        "punctuation": "Individual"
+      }
+    },
+    {
+      "key": "23",
+      "attributes": {
+        "label": "Civil Code",
+        "x": -1272.3225,
+        "y": 3592.082,
+        "size": 300.0,
+        "color": "#c2e189",
+        "type": "Ukranian",
+        "punctuation": "Individual"
+      }
+    },
+    {
+      "key": "24",
+      "attributes": {
+        "label": "Local Authorities",
+        "x": -417.15347,
+        "y": 2815.122,
+        "size": 300.0,
+        "color": "#c2e189",
+        "type": "Ukranian",
+        "punctuation": "Individual"
+      }
+    },
+    {
+      "key": "25",
+      "attributes": {
+        "label": "International Legal Frameworks",
+        "x": -1820.6632,
+        "y": 36.899467,
+        "size": 300.0,
+        "color": "#a6deaa",
+        "type": "International",
+        "punctuation": "Organization"
+      }
+    },
+    {
+      "key": "26",
+      "attributes": {
+        "label": "UNCRC",
+        "x": -673.59717,
+        "y": 522.8953,
+        "size": 300.0,
+        "color": "#a6deaa",
+        "type": "International",
+        "punctuation": "Individual"
+      }
+    },
+    {
+      "key": "27",
+      "attributes": {
+        "label": "ECHR",
+        "x": 664.4652,
+        "y": -2242.5122,
+        "size": 300.0,
+        "color": "#a6deaa",
+        "type": "International",
+        "punctuation": "Individual"
+      }
+    },
+    {
+      "key": "28",
+      "attributes": {
+        "label": "Home Country Adoption Codes",
+        "x": 948.63403,
+        "y": 3176.532,
+        "size": 300.0,
+        "color": "#a6deaa",
+        "type": "International",
+        "punctuation": "Individual"
+      }
+    },
+    {
+      "key": "29",
+      "attributes": {
+        "label": "Intended Parents",
+        "x": 1526.7871,
+        "y": -1189.985,
+        "size": 300.0,
+        "color": "#ffc0d9",
+        "type": "Parents",
+        "punctuation": "Organization"
+      }
+    },
+    {
+      "key": "30",
+      "attributes": {
+        "label": "Queer Couples",
+        "x": 175.41817,
+        "y": 2810.463,
+        "size": 300.0,
+        "color": "#ffc0d9",
+        "type": "Parents",
+        "punctuation": "Individual"
+      }
+    },
+    {
+      "key": "31",
+      "attributes": {
+        "label": "Heterosexual Couples",
+        "x": -1785.5961,
+        "y": 1423.7169,
+        "size": 300.0,
+        "color": "#ffc0d9",
+        "type": "Parents",
+        "punctuation": "Individual"
+      }
+    },
+    {
+      "key": "32",
+      "attributes": {
+        "label": "Single Parent",
+        "x": 427.75726,
+        "y": 3361.3862,
+        "size": 300.0,
+        "color": "#ffc0d9",
+        "type": "Parents",
+        "punctuation": "Individual"
+      }
+    },
+    {
+      "key": "33",
+      "attributes": {
+        "label": "Families of Surrogates",
+        "x": -221.25735,
+        "y": 1218.606,
+        "size": 300.0,
+        "color": "#dab9c4",
+        "type": "Family",
+        "punctuation": "Individual"
+      }
+    },
+    {
+      "key": "34",
+      "attributes": {
+        "label": "Surrogate-Born Babies",
+        "x": -3087.8503,
+        "y": 738.8604,
+        "size": 300.0,
+        "color": "#ffb9ad",
+        "type": "Babies",
+        "punctuation": "Individual"
+      }
+    },
+    {
+      "key": "35",
+      "attributes": {
+        "label": "Media and Journals",
+        "x": 2009.5641,
+        "y": -449.46072,
+        "size": 300.0,
+        "color": "#e0d4f6",
+        "type": "Media",
+        "punctuation": "Organization"
+      }
+    },
+    {
+      "key": "36",
+      "attributes": {
+        "label": "New York Times",
+        "x": 1428.0151,
+        "y": 2974.4,
+        "size": 300.0,
+        "color": "#e0d4f6",
+        "type": "Media",
+        "punctuation": "Individual"
+      }
+    },
+    {
+      "key": "37",
+      "attributes": {
+        "label": "BBC News",
+        "x": -2938.4915,
+        "y": 1570.3829,
+        "size": 300.0,
+        "color": "#e0d4f6",
+        "type": "Media",
+        "punctuation": "Individual"
+      }
+    },
+    {
+      "key": "38",
+      "attributes": {
+        "label": "Al Jazeera",
+        "x": -2344.7822,
+        "y": 2794.377,
+        "size": 300.0,
+        "color": "#e0d4f6",
+        "type": "Media",
+        "punctuation": "Individual"
+      }
+    },
+    {
+      "key": "39",
+      "attributes": {
+        "label": "IVF",
+        "x": 38.275078,
+        "y": -56.591694,
+        "size": 300.0,
+        "color": "#91e2cd",
+        "type": "Technology",
+        "punctuation": "Individual"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "key": "1913",
+      "source": "1",
+      "target": "2",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Demand",
+        "description": "BioTexCom Clinic demands adherence to medical protocols from Medical Staff to ensure the safety of surrogacy procedures."
+      }
+    },
+    {
+      "key": "1914",
+      "source": "1",
+      "target": "3",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "BioTexCom Clinic encourages Legal and Compliance Team to maintain up-to-date knowledge on surrogacy laws and regulations."
+      }
+    },
+    {
+      "key": "1916",
+      "source": "1",
+      "target": "4",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Allow",
+        "description": "BioTexCom Clinic allows Administrative Staff to coordinate logistics between clients, surrogates, and clinic departments."
+      }
+    },
+    {
+      "key": "1917",
+      "source": "1",
+      "target": "5",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "BioTexCom Clinic encourages Marketing to promote surrogacy services internationally, focusing on affordability and accessibility."
+      }
+    },
+    {
+      "key": "1919",
+      "source": "1",
+      "target": "6",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "BioTexCom Clinic supports limited Support Staff during high-demand periods, facilitating workload balance."
+      }
+    },
+    {
+      "key": "1920",
+      "source": "1",
+      "target": "7",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "BioTexCom Clinic requests surrogate networks recruit economically motivated women, targeting those in need of income."
+      }
+    },
+    {
+      "key": "1921",
+      "source": "1",
+      "target": "8",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "BioTexCom encourages experienced surrogates to participate in peer mentorship programs, helping new surrogates navigate challenges."
+      }
+    },
+    {
+      "key": "1923",
+      "source": "1",
+      "target": "10",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Demand",
+        "description": "BioTexCom Clinic demands higher participation from conflict-resilient surrogates during challenging cases."
+      }
+    },
+    {
+      "key": "1924",
+      "source": "1",
+      "target": "12",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "BioTexCom Clinic requests NGOs highlight positive surrogate experiences to balance public perception."
+      }
+    },
+    {
+      "key": "1926",
+      "source": "1",
+      "target": "14",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Refuse",
+        "description": "BioTexCom Clinic refuses full access to Human Rights Watch, limiting scrutiny to safeguard client privacy."
+      }
+    },
+    {
+      "key": "1928",
+      "source": "1",
+      "target": "15",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Discourage",
+        "description": "BioTexCom Clinic discourages advocacy groups from direct interventions, preferring internal compliance measures. / BioTexCom Clinic discourages Stop Surrogacy Now from conducting anti-surrogacy protests at clinic locations."
+      }
+    },
+    {
+      "key": "1929",
+      "source": "1",
+      "target": "16",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "BioTexCom supports Tourism Agencies by offering comprehensive information on clinic operations to inform international clients."
+      }
+    },
+    {
+      "key": "1931",
+      "source": "1",
+      "target": "17",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "BioTexCom Clinic supports IVF TravelÕs logistical needs to facilitate client-surgeon connections."
+      }
+    },
+    {
+      "key": "1932",
+      "source": "1",
+      "target": "18",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "BioTexCom Clinic requests Tammuz Family promote the clinic\u0027s success rate, attracting clients from specific demographics."
+      }
+    },
+    {
+      "key": "1933",
+      "source": "1",
+      "target": "19",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Demand",
+        "description": "BioTexCom Clinic demands Egg Donor \u0026 Surrogacy Institute provide more egg donation options, enhancing service offerings."
+      }
+    },
+    {
+      "key": "1934",
+      "source": "1",
+      "target": "20",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "BioTexCom Clinic encourages Local Authorities to provide security around clinic premises, ensuring surrogate and client safety. / BioTexCom advocates for Local Authorities to provide support for surrogates, enhancing community involvement in surrogate welfare."
+      }
+    },
+    {
+      "key": "1935",
+      "source": "1",
+      "target": "21",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "BioTexCom Clinic requests Health Ministry maintain current health protocols to continue operations."
+      }
+    },
+    {
+      "key": "1936",
+      "source": "1",
+      "target": "22",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Allow",
+        "description": "BioTexCom Clinic allows Family Law Code to influence surrogate contract terms, maintaining legal alignment."
+      }
+    },
+    {
+      "key": "1937",
+      "source": "1",
+      "target": "25",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Refuse",
+        "description": "BioTexCom Clinic restricts practices that conflict with UNCRC child welfare policies, adhering to international standards."
+      }
+    },
+    {
+      "key": "1938",
+      "source": "1",
+      "target": "26",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "BioTexCom Clinic encourages media outlets to showcase successful surrogacy stories, improving public perception."
+      }
+    },
+    {
+      "key": "1939",
+      "source": "1",
+      "target": "27",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "BioTexCom requests ECHRÕs guidance to align with European human rights standards, enhancing clinic credibility."
+      }
+    },
+    {
+      "key": "1941",
+      "source": "1",
+      "target": "29",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Allow",
+        "description": "BioTexCom Clinic allows Intended Parents access to surrogate health records (with consent), enhancing transparency."
+      }
+    },
+    {
+      "key": "1942",
+      "source": "1",
+      "target": "33",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "BioTexCom Clinic encourages families of surrogates to stay involved during the contract, fostering emotional support."
+      }
+    },
+    {
+      "key": "1944",
+      "source": "1",
+      "target": "35",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "BioTexCom supports media efforts to accurately portray the surrogacy process, promoting transparency and addressing misconceptions."
+      }
+    },
+    {
+      "key": "1945",
+      "source": "1",
+      "target": "39",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "BioTexCom promotes IVF technology as a key aspect of their surrogacy program, enhancing their reputation in the fertility industry."
+      }
+    },
+    {
+      "key": "1947",
+      "source": "2",
+      "target": "5",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "Medical Staff supports Marketing Team by providing detailed health data for promotional materials, emphasizing clinic safety."
+      }
+    },
+    {
+      "key": "1948",
+      "source": "2",
+      "target": "39",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Demand",
+        "description": "Medical Staff demands precise IVF protocols to ensure successful implantation and reduce health risks to surrogates."
+      }
+    },
+    {
+      "key": "1949",
+      "source": "3",
+      "target": "1",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "Legal Team recommends BioTexCom adopt clearer transparency policies in response to client and surrogate feedback."
+      }
+    },
+    {
+      "key": "1951",
+      "source": "3",
+      "target": "7",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "Legal Team recommends that surrogate network advise surrogates on legal aspects, promoting informed decisions."
+      }
+    },
+    {
+      "key": "1953",
+      "source": "3",
+      "target": "8",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "Legal Team requests experienced surrogates provide input on legal protections needed in contracts."
+      }
+    },
+    {
+      "key": "1955",
+      "source": "3",
+      "target": "12",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Allow",
+        "description": "Legal Team allows NGOs access to contract templates for transparency and ethical verification. / Legal Team collaborates with NGOs to develop ethical surrogacy contracts, incorporating surrogate protections."
+      }
+    },
+    {
+      "key": "1956",
+      "source": "3",
+      "target": "14",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "Legal Team requests Human Rights Watch review clinic practices, promoting transparency and ethical compliance."
+      }
+    },
+    {
+      "key": "1957",
+      "source": "3",
+      "target": "16",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Demand",
+        "description": "Legal Team demands Tourism Agencies adhere to client privacy standards, preventing unauthorized data sharing."
+      }
+    },
+    {
+      "key": "1958",
+      "source": "3",
+      "target": "17",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "Legal Team facilitates IVF TravelÕs operations by ensuring that surrogacy contracts include travel rights for international surrogates and clients."
+      }
+    },
+    {
+      "key": "1959",
+      "source": "3",
+      "target": "18",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "Legal Team advises Tammuz Family on legal compliance in international surrogacy contracts, ensuring ethical practices."
+      }
+    },
+    {
+      "key": "1960",
+      "source": "3",
+      "target": "19",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Allow",
+        "description": "Legal Team permits Egg Donor \u0026 Surrogacy Institute to access legal documentation for egg donor contracts, ensuring legal clarity."
+      }
+    },
+    {
+      "key": "1961",
+      "source": "3",
+      "target": "22",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "Legal Team supports Family Law Code by integrating legal updates into surrogate contracts, maintaining compliance."
+      }
+    },
+    {
+      "key": "1962",
+      "source": "3",
+      "target": "25",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "Legal Team recommends UNCRC adopt standards that protect surrogate-born childrenÕs rights in international cases."
+      }
+    },
+    {
+      "key": "1964",
+      "source": "3",
+      "target": "26",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Allow",
+        "description": "Legal Team collaborates with media to explain legal aspects of surrogacy, enhancing public understanding. / Legal Team allows media access to certain legal records, enhancing transparency about surrogacy regulations."
+      }
+    },
+    {
+      "key": "1965",
+      "source": "3",
+      "target": "27",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "Legal Team supports ECHR by referencing human rights guidelines in contract development, aligning with ethical standards."
+      }
+    },
+    {
+      "key": "1966",
+      "source": "3",
+      "target": "29",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "Legal Team informs intended parents about the legal obligations tied to IVF and surrogacy, ensuring informed consent."
+      }
+    },
+    {
+      "key": "1968",
+      "source": "3",
+      "target": "33",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "Legal Team advises families of surrogates on legal rights related to surrogacy agreements, ensuring informed decision-making."
+      }
+    },
+    {
+      "key": "1969",
+      "source": "3",
+      "target": "35",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Demand",
+        "description": "Legal Team demands media portray surrogatesÕ rights accurately, emphasizing ethical standards in all surrogacy contracts."
+      }
+    },
+    {
+      "key": "1970",
+      "source": "3",
+      "target": "39",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "Legal Team updates surrogacy contracts to reflect evolving IVF technology risks and surrogate protections."
+      }
+    },
+    {
+      "key": "1972",
+      "source": "4",
+      "target": "1",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "Administrative Staff facilitates communication between BioTexCom departments, supporting efficient clinic operations."
+      }
+    },
+    {
+      "key": "1973",
+      "source": "4",
+      "target": "3",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "Administrative Staff supports Legal Team by providing accurate surrogate data, aiding in ethical contract drafting."
+      }
+    },
+    {
+      "key": "1974",
+      "source": "4",
+      "target": "5",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "Administrative Staff supports Marketing by providing operational data for client outreach, helping to manage clinic visibility. / Administrative Staff facilitates Marketing operations by providing logistical support, ensuring coordinated promotional efforts."
+      }
+    },
+    {
+      "key": "1975",
+      "source": "4",
+      "target": "7",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Assist",
+        "description": "Administrative Staff assist Surrogate Mothers with administrative paperwork and logistical arrangements during surrogacy."
+      }
+    },
+    {
+      "key": "1977",
+      "source": "4",
+      "target": "12",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Allow",
+        "description": "Administrative Staff allows NGOs to observe clinic operations, maintaining transparency in administrative processes. / Administrative Staff permits NGOs limited access to clinic logistics, supporting operational transparency."
+      }
+    },
+    {
+      "key": "1978",
+      "source": "4",
+      "target": "14",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Allow",
+        "description": "Administrative Staff permits Human Rights Watch access to operational records, increasing clinic accountability."
+      }
+    },
+    {
+      "key": "1979",
+      "source": "4",
+      "target": "16",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "Administrative Staff facilitates Tourism AgenciesÕ arrangements by coordinating clinic tours for international clients. / Administrative Staff assists Tourism Agencies in organizing surrogacy informational events, promoting ethical tourism."
+      }
+    },
+    {
+      "key": "1981",
+      "source": "4",
+      "target": "17",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "Administrative Staff supports IVF Travel by coordinating schedules and resources for smooth clinic tours."
+      }
+    },
+    {
+      "key": "1982",
+      "source": "4",
+      "target": "18",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Allow",
+        "description": "Administrative Staff collaborates with Tammuz Family to streamline client communication, facilitating smoother transactions."
+      }
+    },
+    {
+      "key": "1983",
+      "source": "4",
+      "target": "20",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Allow",
+        "description": "Administrative Staff permits Local Authorities to audit clinic records, ensuring accountability in surrogacy operations."
+      }
+    },
+    {
+      "key": "1984",
+      "source": "4",
+      "target": "21",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "Administrative Staff assists Health Ministry by maintaining accurate health records, aiding in the monitoring of surrogate health standards."
+      }
+    },
+    {
+      "key": "1985",
+      "source": "4",
+      "target": "25",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "Administrative Staff supports UNCRC guidelines by organizing record-keeping for surrogate-related child welfare cases."
+      }
+    },
+    {
+      "key": "1986",
+      "source": "4",
+      "target": "26",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Allow",
+        "description": "Administrative Staff allows media limited access to surrogacy statistics, maintaining transparency while respecting privacy."
+      }
+    },
+    {
+      "key": "1987",
+      "source": "4",
+      "target": "29",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "Administrative Staff encourages Intended Parents to attend clinic tours for a clearer understanding of the process."
+      }
+    },
+    {
+      "key": "1988",
+      "source": "4",
+      "target": "33",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "Administrative Staff requests families of surrogates adhere to visitation guidelines, maintaining a supportive environment."
+      }
+    },
+    {
+      "key": "1990",
+      "source": "4",
+      "target": "39",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "Administrative Staff supports IVF procedures by coordinating staff schedules, ensuring smooth clinic operations. / Administrative Staff supports IVF procedures by handling documentation efficiently, aiding in seamless operational flow."
+      }
+    },
+    {
+      "key": "1992",
+      "source": "5",
+      "target": "1",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "Marketing Team supports BioTexCom Clinic by promoting its ethical practices in surrogacy, attracting global clients."
+      }
+    },
+    {
+      "key": "1994",
+      "source": "5",
+      "target": "7",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "Marketing Team encourages surrogate network members to share positive testimonials for public outreach campaigns. / Marketing Team supports surrogate networks by promoting surrogates\u0027 stories, enhancing transparency and empathy in marketing."
+      }
+    },
+    {
+      "key": "1995",
+      "source": "5",
+      "target": "8",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "Marketing Team highlights experienced surrogates\u0027 testimonials in promotional materials, building trust with clients. / Marketing Team highlights stories of experienced surrogates to attract clients, showcasing surrogate expertise and resilience."
+      }
+    },
+    {
+      "key": "1996",
+      "source": "5",
+      "target": "14",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "Marketing Team promotes Human Rights WatchÕs findings on ethical surrogacy, enhancing BioTexComÕs image as a responsible provider."
+      }
+    },
+    {
+      "key": "1997",
+      "source": "5",
+      "target": "16",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "Marketing Team requests Tourism Agencies coordinate promotional efforts with the clinicÕs messaging."
+      }
+    },
+    {
+      "key": "1998",
+      "source": "5",
+      "target": "17",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "Marketing Team facilitates IVF Travel by promoting travel packages designed for surrogacy clients, encouraging global reach. / Marketing Team promotes IVF Travel services as part of BioTexComÕs comprehensive client care package."
+      }
+    },
+    {
+      "key": "1999",
+      "source": "5",
+      "target": "18",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "Marketing Team supports Tammuz FamilyÕs international efforts by providing branded materials."
+      }
+    },
+    {
+      "key": "2000",
+      "source": "5",
+      "target": "19",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "Marketing Team encourages Egg Donor \u0026 Surrogacy Institute to share donor stories, providing a human touch to promotional content."
+      }
+    },
+    {
+      "key": "2001",
+      "source": "5",
+      "target": "20",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "Marketing Team requests Local Authorities support surrogate protection initiatives, promoting community trust."
+      }
+    },
+    {
+      "key": "2002",
+      "source": "5",
+      "target": "22",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "Marketing Team requests Family Law Code allow representation of surrogate welfare in advertising, reflecting client interests."
+      }
+    },
+    {
+      "key": "2003",
+      "source": "5",
+      "target": "26",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Allow",
+        "description": "Marketing Team collaborates with media outlets to promote IVF success stories, shaping positive public opinion."
+      }
+    },
+    {
+      "key": "2004",
+      "source": "5",
+      "target": "29",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Allow",
+        "description": "Marketing Team allows Intended Parents network to provide feedback on marketing materials, ensuring sensitive messaging."
+      }
+    },
+    {
+      "key": "2005",
+      "source": "5",
+      "target": "35",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "Marketing Team requests media feature surrogacy stories that focus on ethical successes, improving public trust."
+      }
+    },
+    {
+      "key": "2007",
+      "source": "5",
+      "target": "39",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "Marketing Team encourages the use of IVF technology in promotional content, showcasing it as a reliable pathway to parenthood. / Marketing Team showcases IVF technologyÕs role in successful surrogacy, emphasizing scientific advancements."
+      }
+    },
+    {
+      "key": "2008",
+      "source": "6",
+      "target": "1",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "Support Staff supports BioTexCom by assisting with logistics during peak seasons, facilitating smoother operations."
+      }
+    },
+    {
+      "key": "2009",
+      "source": "6",
+      "target": "7",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "Support Staff encourages surrogate network participation in wellness programs, promoting health maintenance."
+      }
+    },
+    {
+      "key": "2010",
+      "source": "6",
+      "target": "17",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "Support Staff requests IVF Travel provide clear schedules, aiding in clinic coordination for client visits."
+      }
+    },
+    {
+      "key": "2011",
+      "source": "6",
+      "target": "19",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "Support Staff supports Egg Donor \u0026 Surrogacy Institute by assisting with donor coordination."
+      }
+    },
+    {
+      "key": "2012",
+      "source": "6",
+      "target": "33",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Allow",
+        "description": "Support Staff allows surrogate families access to support resources, enhancing family care for surrogates."
+      }
+    },
+    {
+      "key": "2013",
+      "source": "7",
+      "target": "4",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "Surrogate network facilitates communication with Administrative Staff to ensure timely updates on surrogate schedules."
+      }
+    },
+    {
+      "key": "2014",
+      "source": "7",
+      "target": "5",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Demand",
+        "description": "Surrogate network demands Marketing represent surrogates\u0027 voices accurately, avoiding exaggerated promotional content."
+      }
+    },
+    {
+      "key": "2015",
+      "source": "7",
+      "target": "8",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "Surrogate network supports experienced surrogates by providing a collaborative environment for sharing experiences."
+      }
+    },
+    {
+      "key": "2016",
+      "source": "7",
+      "target": "12",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "Surrogate network encourages NGOs to provide educational resources for surrogates on contract rights."
+      }
+    },
+    {
+      "key": "2018",
+      "source": "7",
+      "target": "16",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "Surrogate network recommends Tourism Agencies provide clear information on surrogate rights, improving client understanding."
+      }
+    },
+    {
+      "key": "2020",
+      "source": "7",
+      "target": "18",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Allow",
+        "description": "Surrogate network allows Tammuz Family to access feedback for improving international surrogacy services. / Surrogate network allows Tammuz Family to gather feedback on surrogate support needs, helping refine service offerings."
+      }
+    },
+    {
+      "key": "2021",
+      "source": "7",
+      "target": "19",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "Surrogate network requests Egg Donor \u0026 Surrogacy Institute ensure ethical treatment of egg donors within surrogacy."
+      }
+    },
+    {
+      "key": "2022",
+      "source": "7",
+      "target": "21",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Demand",
+        "description": "Surrogate network demands Health Ministry enforce mental health support requirements, addressing emotional impacts of surrogacy. / Surrogate network demands Health Ministry ensure that surrogates have access to comprehensive healthcare support."
+      }
+    },
+    {
+      "key": "2023",
+      "source": "7",
+      "target": "22",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "Surrogate network suggests Family Law Code recognize the unique needs of surrogates, adding specific protections."
+      }
+    },
+    {
+      "key": "2026",
+      "source": "7",
+      "target": "25",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Allow",
+        "description": "Surrogate network partners with UNCRC to advocate for child welfare standards in surrogacy arrangements."
+      }
+    },
+    {
+      "key": "2027",
+      "source": "7",
+      "target": "27",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "Surrogate network requests ECHRÕs advocacy for clearer international surrogacy laws, helping protect surrogate rights."
+      }
+    },
+    {
+      "key": "2028",
+      "source": "7",
+      "target": "33",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "Surrogate Mothers request emotional support from Families of Surrogates during the surrogacy process."
+      }
+    },
+    {
+      "key": "2030",
+      "source": "7",
+      "target": "35",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "Surrogate network requests media cover issues related to surrogate autonomy, addressing public misconceptions."
+      }
+    },
+    {
+      "key": "2031",
+      "source": "7",
+      "target": "39",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "Surrogate network requests IVF clinics provide surrogates with information on the medical risks associated with IVF procedures. / Surrogate network requests IVF clinics provide surrogates with detailed health protocols, prioritizing informed consent."
+      }
+    },
+    {
+      "key": "2034",
+      "source": "8",
+      "target": "3",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "Experienced surrogates request Legal Team simplify contract language for better understanding of rights and obligations."
+      }
+    },
+    {
+      "key": "2035",
+      "source": "8",
+      "target": "12",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "Experienced surrogates request NGO support for mental health initiatives, acknowledging the psychological toll of repeated surrogacy contracts."
+      }
+    },
+    {
+      "key": "2036",
+      "source": "8",
+      "target": "14",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "Experienced surrogates inform Human Rights Watch about the emotional challenges of repeat IVF, providing firsthand insights."
+      }
+    },
+    {
+      "key": "2037",
+      "source": "8",
+      "target": "22",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "Experienced surrogates request Family Law Code update to reflect modern surrogacy practices, ensuring current protections."
+      }
+    },
+    {
+      "key": "2039",
+      "source": "8",
+      "target": "25",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "Experienced surrogates request that UNCRC provide guidelines on surrogate protection within international child welfare."
+      }
+    },
+    {
+      "key": "2040",
+      "source": "8",
+      "target": "26",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "Experienced surrogates advocate through media for fairer treatment, sharing stories about the demands of IVF."
+      }
+    },
+    {
+      "key": "2042",
+      "source": "8",
+      "target": "35",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "Experienced surrogates advocate through media for better physical and mental health support systems."
+      }
+    },
+    {
+      "key": "2043",
+      "source": "8",
+      "target": "39",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "Experienced surrogates request additional health support from IVF providers, due to repeated procedural demands."
+      }
+    },
+    {
+      "key": "2045",
+      "source": "9",
+      "target": "3",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Conflict Resilient Surrogates uses Encourage affordance towards Legal and Compliance Team regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2046",
+      "source": "9",
+      "target": "6",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Conflict Resilient Surrogates uses Demand affordance towards Limited Support Staff regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2047",
+      "source": "9",
+      "target": "13",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Conflict Resilient Surrogates uses Discourage affordance towards La Strada Ukraine regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2048",
+      "source": "9",
+      "target": "19",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Conflict Resilient Surrogates uses Encourage affordance towards Egg Donor \u0026 Surrogacy Institute regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2049",
+      "source": "9",
+      "target": "20",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Conflict Resilient Surrogates uses Refuse affordance towards Ukrainian Legal Frameworks regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2050",
+      "source": "9",
+      "target": "21",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Conflict Resilient Surrogates uses Request affordance towards Health Ministry Regulations regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2051",
+      "source": "9",
+      "target": "22",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Conflict Resilient Surrogates uses Demand affordance towards Family Law Code regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2052",
+      "source": "9",
+      "target": "31",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Conflict Resilient Surrogates uses Request affordance towards Heterosexual Couples regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2053",
+      "source": "10",
+      "target": "39",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Demand",
+        "description": "Conflict-resilient surrogates demand safer IVF practices due to the physical toll and emotional demands of the procedure."
+      }
+    },
+    {
+      "key": "2054",
+      "source": "11",
+      "target": "2",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "First Time Surrogates uses Allow affordance towards Medical Staff regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2055",
+      "source": "11",
+      "target": "5",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "First Time Surrogates uses Discourage affordance towards Marketing and International Liaisons regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2056",
+      "source": "11",
+      "target": "22",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "First Time Surrogates uses Demand affordance towards Family Law Code regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2057",
+      "source": "11",
+      "target": "24",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "First Time Surrogates uses Refuse affordance towards Local Authorities regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2058",
+      "source": "11",
+      "target": "25",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "First Time Surrogates uses Discourage affordance towards International Legal Frameworks regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2059",
+      "source": "11",
+      "target": "32",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "First Time Surrogates uses Encourage affordance towards Single Parent regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2060",
+      "source": "11",
+      "target": "36",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "First Time Surrogates uses Request affordance towards New York Times regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2061",
+      "source": "11",
+      "target": "38",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "First Time Surrogates uses Request affordance towards Al Jazeera regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2062",
+      "source": "12",
+      "target": "3",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Demand",
+        "description": "NGOs monitor Legal Team practices, ensuring contracts align with ethical standards to protect surrogates."
+      }
+    },
+    {
+      "key": "2063",
+      "source": "12",
+      "target": "4",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Allow",
+        "description": "NGOs allow Administrative Staff to assist in collecting data on surrogate experiences, supporting advocacy reports."
+      }
+    },
+    {
+      "key": "2064",
+      "source": "12",
+      "target": "5",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "NGOs encourage Marketing Team to include surrogate testimonials in promotional materials, emphasizing ethical transparency."
+      }
+    },
+    {
+      "key": "2065",
+      "source": "12",
+      "target": "7",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Allow",
+        "description": "NGOs partner with surrogate networks to provide training on rights and health, supporting surrogatesÕ informed consent."
+      }
+    },
+    {
+      "key": "2066",
+      "source": "12",
+      "target": "16",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Allow",
+        "description": "NGOs collaborate with Tourism Agencies to create ethical travel guidelines for surrogacy clients, ensuring responsible practices. / NGOs collaborate with Tourism Agencies to create resources for ethically responsible surrogacy tourism."
+      }
+    },
+    {
+      "key": "2067",
+      "source": "12",
+      "target": "17",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "NGOs request IVF Travel support ethical travel arrangements, ensuring surrogate comfort and security."
+      }
+    },
+    {
+      "key": "2069",
+      "source": "12",
+      "target": "22",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "NGOs recommend that Family Law Code enhance protections for surrogates, particularly regarding health and consent in IVF-based surrogacy."
+      }
+    },
+    {
+      "key": "2071",
+      "source": "12",
+      "target": "25",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Demand",
+        "description": "NGOs demand UNCRC provide clear child welfare guidelines for surrogate-born children, particularly in international surrogacy cases."
+      }
+    },
+    {
+      "key": "2072",
+      "source": "12",
+      "target": "26",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "NGOs request media focus on surrogate rights, supporting efforts to combat exploitation in fertility tourism."
+      }
+    },
+    {
+      "key": "2074",
+      "source": "12",
+      "target": "29",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "NGOs encourage intended parents to select clinics that follow ethical practices, supporting responsible family-building."
+      }
+    },
+    {
+      "key": "2075",
+      "source": "12",
+      "target": "33",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Demand",
+        "description": "NGOs demand families of surrogates offer post-contract support to surrogates, reinforcing family care."
+      }
+    },
+    {
+      "key": "2076",
+      "source": "12",
+      "target": "39",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "NGOs support IVF as part of surrogacy but advocate for ethical oversight to ensure surrogate health is prioritized."
+      }
+    },
+    {
+      "key": "2079",
+      "source": "13",
+      "target": "2",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "La Strada Ukraine uses Encourage affordance towards Medical Staff regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2080",
+      "source": "13",
+      "target": "5",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "La Strada Ukraine uses Refuse affordance towards Marketing and International Liaisons regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2081",
+      "source": "13",
+      "target": "9",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "La Strada Ukraine uses Request affordance towards Conflict Resilient Surrogates regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2082",
+      "source": "13",
+      "target": "19",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "La Strada Ukraine uses Allow affordance towards Egg Donor \u0026 Surrogacy Institute regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2083",
+      "source": "13",
+      "target": "20",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "La Strada Ukraine uses Allow affordance towards Ukrainian Legal Frameworks regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2084",
+      "source": "13",
+      "target": "26",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "La Strada Ukraine uses Discourage affordance towards UNCRC regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2086",
+      "source": "13",
+      "target": "38",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "La Strada Ukraine uses Discourage affordance towards Al Jazeera regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2087",
+      "source": "14",
+      "target": "1",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Demand",
+        "description": "Human Rights Watch demands BioTexCom provide data on surrogate health impacts, increasing transparency in medical practices."
+      }
+    },
+    {
+      "key": "2088",
+      "source": "14",
+      "target": "3",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Discourage",
+        "description": "Human Rights Watch critiques Legal TeamÕs contract structures, highlighting areas where surrogate rights could be strengthened."
+      }
+    },
+    {
+      "key": "2089",
+      "source": "14",
+      "target": "4",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Demand",
+        "description": "Human Rights Watch monitors Administrative Staff procedures to ensure that surrogate records are handled ethically."
+      }
+    },
+    {
+      "key": "2090",
+      "source": "14",
+      "target": "5",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "Human Rights Watch requests Marketing avoid exploitative language in surrogacy promotions, advocating for ethical communication."
+      }
+    },
+    {
+      "key": "2092",
+      "source": "14",
+      "target": "7",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Demand",
+        "description": "Human Rights Watch demands surrogate network establish a grievance system for surrogates to report mistreatment."
+      }
+    },
+    {
+      "key": "2093",
+      "source": "14",
+      "target": "12",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Allow",
+        "description": "Human Rights Watch partners with NGOs to address ethical surrogacy concerns, combining resources for effective advocacy."
+      }
+    },
+    {
+      "key": "2094",
+      "source": "14",
+      "target": "16",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Demand",
+        "description": "Human Rights Watch demands Tourism Agencies promote only ethically certified IVF clinics, ensuring client awareness."
+      }
+    },
+    {
+      "key": "2095",
+      "source": "14",
+      "target": "17",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Demand",
+        "description": "Human Rights Watch monitors IVF Travel practices, ensuring no exploitation or misinformation in surrogacy travel logistics."
+      }
+    },
+    {
+      "key": "2096",
+      "source": "14",
+      "target": "19",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Demand",
+        "description": "Human Rights Watch monitors Egg Donor \u0026 Surrogacy Institute practices, ensuring ethical handling of egg donation processes. / Human Rights Watch demands Egg Donor \u0026 Surrogacy Institute follow ethical guidelines for all reproductive services."
+      }
+    },
+    {
+      "key": "2097",
+      "source": "14",
+      "target": "22",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "Human Rights Watch lobbies Family Law Code to strengthen legal protections for surrogates, addressing gaps in existing laws."
+      }
+    },
+    {
+      "key": "2098",
+      "source": "14",
+      "target": "25",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "Human Rights Watch advocates for UNCRCÕs involvement in protecting children born via surrogacy, addressing ethical concerns."
+      }
+    },
+    {
+      "key": "2099",
+      "source": "14",
+      "target": "26",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "Human Rights Watch encourages media to investigate the impact of IVF technology on surrogate health."
+      }
+    },
+    {
+      "key": "2100",
+      "source": "14",
+      "target": "27",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "Human Rights Watch requests ECHR investigate potential human rights issues related to IVF technology in surrogacy."
+      }
+    },
+    {
+      "key": "2101",
+      "source": "14",
+      "target": "29",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "Human Rights Watch advocates for intended parents to prioritize surrogate rights when entering contracts, fostering ethical relationships."
+      }
+    },
+    {
+      "key": "2102",
+      "source": "14",
+      "target": "33",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Allow",
+        "description": "Human Rights Watch allows families of surrogates to share perspectives in advocacy reports, adding depth to ethical discussions."
+      }
+    },
+    {
+      "key": "2103",
+      "source": "14",
+      "target": "35",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Allow",
+        "description": "Human Rights Watch collaborates with media to highlight surrogacy challenges, raising awareness of ethical concerns."
+      }
+    },
+    {
+      "key": "2104",
+      "source": "14",
+      "target": "39",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "Human Rights Watch investigates IVF technologyÕs long-term effects on surrogate health and well-being, ensuring ethical standards."
+      }
+    },
+    {
+      "key": "2106",
+      "source": "15",
+      "target": "26",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Demand",
+        "description": "Stop Surrogacy Now demands stricter regulations from UNCRC to prevent exploitation in international surrogacy."
+      }
+    },
+    {
+      "key": "2107",
+      "source": "16",
+      "target": "1",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Demand",
+        "description": "Tourism Agencies demand BioTexCom guarantee language support for non-native clients throughout the IVF process."
+      }
+    },
+    {
+      "key": "2108",
+      "source": "16",
+      "target": "4",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Allow",
+        "description": "Tourism Agencies coordinate with Administrative Staff to ensure that client schedules align with surrogate availability."
+      }
+    },
+    {
+      "key": "2109",
+      "source": "16",
+      "target": "5",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "Tourism Agencies request Marketing highlight the international accessibility of IVF services, attracting global clients."
+      }
+    },
+    {
+      "key": "2111",
+      "source": "16",
+      "target": "7",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Demand",
+        "description": "Tourism Agencies demand surrogate networkÕs assistance in promoting cross-cultural understanding for international clients."
+      }
+    },
+    {
+      "key": "2112",
+      "source": "16",
+      "target": "12",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "Tourism Agencies request that NGOs provide guidance on ethically navigating cross-border surrogacy."
+      }
+    },
+    {
+      "key": "2114",
+      "source": "16",
+      "target": "14",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "Tourism Agencies request Human Rights Watch validate the ethical standards of clinics they promote internationally."
+      }
+    },
+    {
+      "key": "2115",
+      "source": "16",
+      "target": "18",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "Tourism Agencies encourage Tammuz Family to integrate cultural sensitivity training for staff, enhancing international client relations."
+      }
+    },
+    {
+      "key": "2117",
+      "source": "16",
+      "target": "20",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Allow",
+        "description": "Tourism Agencies permit Local Authorities to review travel arrangements, ensuring compliance with local laws."
+      }
+    },
+    {
+      "key": "2118",
+      "source": "16",
+      "target": "22",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Allow",
+        "description": "Tourism Agencies allow Family Law Code to review surrogacy travel policies, ensuring regulatory compliance."
+      }
+    },
+    {
+      "key": "2119",
+      "source": "16",
+      "target": "25",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Allow",
+        "description": "Tourism Agencies allow UNCRC to audit promotional materials, ensuring alignment with child welfare policies."
+      }
+    },
+    {
+      "key": "2120",
+      "source": "16",
+      "target": "26",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Allow",
+        "description": "Tourism Agencies allow media access to client testimonials, helping raise awareness about the experiences in IVF surrogacy."
+      }
+    },
+    {
+      "key": "2121",
+      "source": "16",
+      "target": "27",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "Tourism Agencies request ECHR guidelines for cross-border surrogacy practices, ensuring legal compliance for clients."
+      }
+    },
+    {
+      "key": "2122",
+      "source": "16",
+      "target": "33",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Allow",
+        "description": "Tourism Agencies allow surrogate families to accompany surrogates in international travel when possible, acknowledging family support importance."
+      }
+    },
+    {
+      "key": "2123",
+      "source": "16",
+      "target": "35",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "Tourism Agencies support media efforts to highlight ethical surrogacy options, promoting responsible surrogacy tourism."
+      }
+    },
+    {
+      "key": "2124",
+      "source": "16",
+      "target": "39",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "Tourism Agencies encourage IVF use in their marketing to attract international clients, promoting it as an effective fertility solution. / Tourism Agencies emphasize the role of IVF technology in successful family-building, marketing it as a key feature in fertility tourism. / Tourism Agencies promote IVF technology as a transformative tool for family creation, boosting interest in fertility tourism."
+      }
+    },
+    {
+      "key": "2126",
+      "source": "17",
+      "target": "3",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Demand",
+        "description": "IVF Travel demands Legal Team clarify international surrogate travel rights in contracts."
+      }
+    },
+    {
+      "key": "2127",
+      "source": "17",
+      "target": "5",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "IVF Travel assists Marketing Team by promoting travel options, emphasizing the clinicÕs accessibility to international clients."
+      }
+    },
+    {
+      "key": "2128",
+      "source": "17",
+      "target": "7",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Allow",
+        "description": "IVF Travel coordinates with surrogate network to ensure smooth travel arrangements for surrogates, minimizing logistical challenges."
+      }
+    },
+    {
+      "key": "2129",
+      "source": "17",
+      "target": "8",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "IVF Travel encourages experienced surrogates to share travel insights, helping improve travel arrangements for others. / IVF Travel supports experienced surrogates by providing tailored travel accommodations, minimizing travel stress."
+      }
+    },
+    {
+      "key": "2130",
+      "source": "17",
+      "target": "12",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Allow",
+        "description": "IVF Travel collaborates with NGOs to establish ethical travel guidelines for surrogates, ensuring their comfort and dignity."
+      }
+    },
+    {
+      "key": "2131",
+      "source": "17",
+      "target": "14",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "IVF Travel supports Human Rights Watch by adhering to ethical travel guidelines, promoting responsible surrogacy tourism. / IVF Travel supports Human Rights Watch by following best practices in managing surrogate travel logistics."
+      }
+    },
+    {
+      "key": "2132",
+      "source": "17",
+      "target": "22",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Demand",
+        "description": "IVF Travel complies with Family Law Code requirements to provide legal travel documentation for surrogates, ensuring smooth cross-border procedures."
+      }
+    },
+    {
+      "key": "2134",
+      "source": "17",
+      "target": "29",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "IVF Travel promotes intended parents network services by offering comprehensive travel packages, emphasizing ethical practices."
+      }
+    },
+    {
+      "key": "2135",
+      "source": "17",
+      "target": "33",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "IVF Travel facilitates family visits during the surrogacy process, enhancing emotional support for surrogates."
+      }
+    },
+    {
+      "key": "2136",
+      "source": "17",
+      "target": "35",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Allow",
+        "description": "IVF Travel collaborates with media to provide transparency on surrogate travel arrangements, ensuring accountability."
+      }
+    },
+    {
+      "key": "2137",
+      "source": "17",
+      "target": "39",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "IVF Travel facilitates transportation for IVF treatments, managing travel logistics for clients and surrogates. / IVF Travel promotes IVF technology advancements to clients, emphasizing safety and success rates in surrogacy arrangements."
+      }
+    },
+    {
+      "key": "2138",
+      "source": "18",
+      "target": "3",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "Tammuz Family suggests Legal Team develop culturally sensitive contracts for international surrogacy clients."
+      }
+    },
+    {
+      "key": "2139",
+      "source": "18",
+      "target": "4",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "Tammuz Family encourages Administrative Staff to manage client documents securely, promoting professionalism."
+      }
+    },
+    {
+      "key": "2140",
+      "source": "18",
+      "target": "5",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "Tammuz Family supports Marketing in creating culturally inclusive advertisements for international clients. / Tammuz Family encourages Marketing Team to adopt culturally sensitive language in international IVF promotions."
+      }
+    },
+    {
+      "key": "2141",
+      "source": "18",
+      "target": "7",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "Tammuz Family requests surrogate network provide input on improving client-surrogate relationships, fostering mutual respect."
+      }
+    },
+    {
+      "key": "2143",
+      "source": "18",
+      "target": "12",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Allow",
+        "description": "Tammuz Family collaborates with NGOs to promote ethical surrogacy practices, aligning with international standards."
+      }
+    },
+    {
+      "key": "2144",
+      "source": "18",
+      "target": "14",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "Tammuz Family requests Human Rights Watch provide ethical certifications for recommended clinics."
+      }
+    },
+    {
+      "key": "2146",
+      "source": "18",
+      "target": "16",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Allow",
+        "description": "Tammuz Family coordinates with Tourism Agencies to create packages for international clients seeking surrogacy services."
+      }
+    },
+    {
+      "key": "2147",
+      "source": "18",
+      "target": "21",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Allow",
+        "description": "Tammuz Family consults Health Ministry on best practices for surrogate health, promoting safe international surrogacy."
+      }
+    },
+    {
+      "key": "2148",
+      "source": "18",
+      "target": "22",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "Tammuz Family recommends Family Law Code expand protections for surrogate contracts, enhancing surrogate rights."
+      }
+    },
+    {
+      "key": "2149",
+      "source": "18",
+      "target": "25",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "Tammuz Family supports UNCRCÕs guidelines on ethical surrogacy, adapting their services to align with child welfare standards."
+      }
+    },
+    {
+      "key": "2150",
+      "source": "18",
+      "target": "26",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "Tammuz Family encourages media to share successful surrogacy outcomes, aiming to improve public perception. / Tammuz Family highlights positive media coverage about surrogacy, reinforcing the narrative of ethical practices within the industry."
+      }
+    },
+    {
+      "key": "2152",
+      "source": "18",
+      "target": "27",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "Tammuz Family recommends ECHR guidelines be simplified for intended parents, aiding in understanding of international surrogacy laws."
+      }
+    },
+    {
+      "key": "2153",
+      "source": "18",
+      "target": "33",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "Tammuz Family requests families of surrogates provide emotional support, recognizing the psychological demands of surrogacy."
+      }
+    },
+    {
+      "key": "2154",
+      "source": "18",
+      "target": "35",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "Tammuz Family requests media to promote inclusive narratives on diverse families, enhancing public awareness of surrogacy options."
+      }
+    },
+    {
+      "key": "2155",
+      "source": "18",
+      "target": "39",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Demand",
+        "description": "Tammuz Family demands accessible IVF services to support international clients, ensuring a streamlined surrogacy process."
+      }
+    },
+    {
+      "key": "2156",
+      "source": "19",
+      "target": "1",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Demand",
+        "description": "Egg Donor \u0026 Surrogacy Institute demands BioTexCom improve consent procedures for egg donors, ensuring informed participation."
+      }
+    },
+    {
+      "key": "2157",
+      "source": "19",
+      "target": "7",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Demand",
+        "description": "Egg Donor \u0026 Surrogacy Institute demands surrogate network promote ethical egg donation practices within their community. / Egg Donor \u0026 Surrogacy Institute demands surrogate network members understand ethical egg donation, encouraging informed decision-making."
+      }
+    },
+    {
+      "key": "2158",
+      "source": "19",
+      "target": "17",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "Egg Donor \u0026 Surrogacy Institute assists IVF Travel by coordinating with donors, ensuring travel aligns with medical needs."
+      }
+    },
+    {
+      "key": "2159",
+      "source": "19",
+      "target": "26",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "Egg Donor \u0026 Surrogacy Institute advocates through media for safe IVF practices, highlighting ethical egg donation standards."
+      }
+    },
+    {
+      "key": "2161",
+      "source": "19",
+      "target": "33",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "Egg Donor \u0026 Surrogacy Institute requests families of surrogates share feedback on donor experience, informing procedural improvements."
+      }
+    },
+    {
+      "key": "2163",
+      "source": "19",
+      "target": "35",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "Egg Donor \u0026 Surrogacy Institute encourages media coverage on egg donationÕs role in surrogacy, highlighting ethical considerations."
+      }
+    },
+    {
+      "key": "2164",
+      "source": "19",
+      "target": "39",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "Egg Donor \u0026 Surrogacy Institute supports IVF technology as essential to surrogacy, collaborating to ensure compatible egg-donation processes."
+      }
+    },
+    {
+      "key": "2166",
+      "source": "20",
+      "target": "12",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Allow",
+        "description": "Local Authorities allow NGOs access to public records on health impacts of surrogacy, aiding in advocacy efforts."
+      }
+    },
+    {
+      "key": "2167",
+      "source": "20",
+      "target": "16",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "Local Authorities support Tourism Agencies by ensuring safety protocols for international clients visiting surrogacy clinics."
+      }
+    },
+    {
+      "key": "2168",
+      "source": "20",
+      "target": "22",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Demand",
+        "description": "Local Authorities demand Family Law Code prioritize local laws in surrogacy contracts, ensuring legal harmony."
+      }
+    },
+    {
+      "key": "2169",
+      "source": "20",
+      "target": "39",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Demand",
+        "description": "Local Authorities regulate IVF technology use within clinics, setting standards for safety and ethical practices."
+      }
+    },
+    {
+      "key": "2170",
+      "source": "21",
+      "target": "1",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "Health Ministry recommends BioTexCom maintain regular health audits, emphasizing safety in IVF and surrogacy practices."
+      }
+    },
+    {
+      "key": "2171",
+      "source": "21",
+      "target": "4",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "Health Ministry facilitates Administrative Staff training in health protocols, enhancing clinic operational standards."
+      }
+    },
+    {
+      "key": "2172",
+      "source": "21",
+      "target": "5",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "Health Ministry supports Marketing Team by providing data on IVF health standards, which is used to reassure prospective clients."
+      }
+    },
+    {
+      "key": "2173",
+      "source": "21",
+      "target": "7",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Demand",
+        "description": "Health Ministry demands that surrogate networks offer regular health check-ins for surrogates to prevent medical complications."
+      }
+    },
+    {
+      "key": "2174",
+      "source": "21",
+      "target": "8",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "Health Ministry supports experienced surrogates by implementing health guidelines that consider the risks of repeated procedures."
+      }
+    },
+    {
+      "key": "2175",
+      "source": "21",
+      "target": "12",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Allow",
+        "description": "Health Ministry collaborates with NGOs to ensure surrogate health standards are maintained, supporting comprehensive care. / Health Ministry partners with NGOs to promote surrogate health education, ensuring surrogates are informed about IVF risks."
+      }
+    },
+    {
+      "key": "2176",
+      "source": "21",
+      "target": "16",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "Health Ministry guides Tourism Agencies on health requirements in surrogacy travel, ensuring safe practices for clients and surrogates."
+      }
+    },
+    {
+      "key": "2177",
+      "source": "21",
+      "target": "27",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "Health Ministry supports ECHRÕs standards, incorporating their recommendations into national surrogacy health policies."
+      }
+    },
+    {
+      "key": "2178",
+      "source": "21",
+      "target": "39",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "Health Ministry requests IVF clinics maintain transparency in their procedures to ensure adherence to health standards."
+      }
+    },
+    {
+      "key": "2181",
+      "source": "22",
+      "target": "3",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Demand",
+        "description": "Family Law Code demands Legal Team align surrogacy contracts with local laws, ensuring compliance with legal standards."
+      }
+    },
+    {
+      "key": "2182",
+      "source": "22",
+      "target": "5",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Allow",
+        "description": "Family Law Code allows Marketing Team to reference legal surrogacy protections in advertising, promoting a sense of security for clients."
+      }
+    },
+    {
+      "key": "2183",
+      "source": "22",
+      "target": "8",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "Family Law Code recommends experienced surrogates receive additional legal protections, acknowledging the cumulative risks of repeat procedures."
+      }
+    },
+    {
+      "key": "2184",
+      "source": "22",
+      "target": "12",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Allow",
+        "description": "Family Law Code allows NGOs to provide educational sessions to surrogates on legal rights and responsibilities."
+      }
+    },
+    {
+      "key": "2185",
+      "source": "22",
+      "target": "14",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "Family Law Code endorses Human Rights Watch guidelines, aligning surrogacy laws with ethical standards for surrogate care."
+      }
+    },
+    {
+      "key": "2186",
+      "source": "22",
+      "target": "17",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "Family Law Code recommends IVF Travel follow legal procedures for surrogate travel, aligning with international surrogacy laws. / Family Law Code recommends IVF Travel establish ethical travel policies, ensuring surrogatesÕ safety and dignity."
+      }
+    },
+    {
+      "key": "2188",
+      "source": "22",
+      "target": "20",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Demand",
+        "description": "Family Law Code demands Local Authorities enforce compliance for clinics using IVF technology, safeguarding public health."
+      }
+    },
+    {
+      "key": "2189",
+      "source": "22",
+      "target": "26",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "Family Law Code encourages media to accurately represent the legal aspects of surrogacy, educating the public on legal complexities."
+      }
+    },
+    {
+      "key": "2191",
+      "source": "22",
+      "target": "29",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "Family Law Code guides intended parents on their legal rights and responsibilities, creating a clear framework for surrogacy."
+      }
+    },
+    {
+      "key": "2193",
+      "source": "22",
+      "target": "33",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "Family Law Code encourages families of surrogates to participate in support programs for surrogates post-birth."
+      }
+    },
+    {
+      "key": "2194",
+      "source": "22",
+      "target": "39",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Demand",
+        "description": "Family Law Code oversees IVF implementation in surrogacy contracts, ensuring legal clarity on procedure-related risks."
+      }
+    },
+    {
+      "key": "2196",
+      "source": "23",
+      "target": "9",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Civil Code uses Permit affordance towards Conflict Resilient Surrogates regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2197",
+      "source": "23",
+      "target": "19",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Civil Code uses Demand affordance towards Egg Donor \u0026 Surrogacy Institute regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2198",
+      "source": "23",
+      "target": "22",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Civil Code uses Allow affordance towards Family Law Code regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2199",
+      "source": "23",
+      "target": "28",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Civil Code uses Encourage affordance towards Home Country Adoption Codes regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2200",
+      "source": "23",
+      "target": "32",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Civil Code uses Encourage affordance towards Single Parent regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2201",
+      "source": "23",
+      "target": "34",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Civil Code uses Encourage affordance towards Surrogate-Born Babies regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2202",
+      "source": "23",
+      "target": "37",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Civil Code uses Demand affordance towards BBC News regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2203",
+      "source": "23",
+      "target": "38",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Civil Code uses Allow affordance towards Al Jazeera regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2204",
+      "source": "24",
+      "target": "9",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Local Authorities uses Allow affordance towards Conflict Resilient Surrogates regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2205",
+      "source": "24",
+      "target": "13",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Local Authorities uses Permit affordance towards La Strada Ukraine regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2206",
+      "source": "24",
+      "target": "19",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Local Authorities uses Demand affordance towards Egg Donor \u0026 Surrogacy Institute regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2207",
+      "source": "24",
+      "target": "20",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Local Authorities uses Permit affordance towards Ukrainian Legal Frameworks regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2208",
+      "source": "24",
+      "target": "26",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Local Authorities uses Permit affordance towards UNCRC regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2209",
+      "source": "24",
+      "target": "28",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Local Authorities uses Request affordance towards Home Country Adoption Codes regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2210",
+      "source": "24",
+      "target": "33",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Local Authorities uses Request affordance towards Families of Surrogates regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2212",
+      "source": "25",
+      "target": "1",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Allow",
+        "description": "UNCRC allows BioTexCom to operate under specific child welfare guidelines, balancing operational freedom with ethical accountability."
+      }
+    },
+    {
+      "key": "2213",
+      "source": "25",
+      "target": "3",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "UNCRC encourages Legal Team to prioritize child welfare in contract terms, addressing potential ethical dilemmas in surrogacy."
+      }
+    },
+    {
+      "key": "2214",
+      "source": "25",
+      "target": "5",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Allow",
+        "description": "UNCRC allows Marketing Team to use child welfare principles in promotional material, emphasizing ethical surrogacy practices."
+      }
+    },
+    {
+      "key": "2215",
+      "source": "25",
+      "target": "12",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "UNCRC supports NGOsÕ efforts to ensure surrogate-born childrenÕs rights are protected within international frameworks."
+      }
+    },
+    {
+      "key": "2216",
+      "source": "25",
+      "target": "16",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Demand",
+        "description": "UNCRC demands Tourism Agencies prioritize ethical standards in promotional materials for international surrogacy."
+      }
+    },
+    {
+      "key": "2217",
+      "source": "25",
+      "target": "17",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "UNCRC requests IVF Travel offer accommodations that prioritize family unity and child welfare in international surrogacy."
+      }
+    },
+    {
+      "key": "2218",
+      "source": "25",
+      "target": "21",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "UNCRC recommends Health Ministry implement policies prioritizing childrenÕs welfare in surrogacy cases."
+      }
+    },
+    {
+      "key": "2219",
+      "source": "25",
+      "target": "26",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "UNCRC encourages media to educate the public on ethical concerns in surrogacy involving IVF, focusing on child welfare."
+      }
+    },
+    {
+      "key": "2220",
+      "source": "25",
+      "target": "39",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "UNCRC recommends IVF technology providers adhere to strict health standards, particularly in procedures affecting childrenÕs futures."
+      }
+    },
+    {
+      "key": "2223",
+      "source": "26",
+      "target": "1",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "Media investigates BioTexCom\u0027s practices, publishing reports that influence public perception and transparency in surrogacy."
+      }
+    },
+    {
+      "key": "2224",
+      "source": "26",
+      "target": "4",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "Media requests Administrative Staff provide data on surrogate demographics, helping inform the public about who participates in surrogacy."
+      }
+    },
+    {
+      "key": "2225",
+      "source": "26",
+      "target": "7",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "Media advocates for surrogate networks by highlighting their efforts to protect surrogate rights, building public support."
+      }
+    },
+    {
+      "key": "2226",
+      "source": "26",
+      "target": "12",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "Media assists NGOs by providing a platform to broadcast surrogates\u0027 rights issues, amplifying ethical concerns."
+      }
+    },
+    {
+      "key": "2227",
+      "source": "26",
+      "target": "14",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Demand",
+        "description": "Media demands Human Rights Watch provide detailed reports on IVF technologyÕs ethical implications within surrogacy."
+      }
+    },
+    {
+      "key": "2228",
+      "source": "26",
+      "target": "17",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "Media supports IVF Travel by covering travel logistics in surrogacy, highlighting the importance of ethical practices. / Media highlights IVF Travel\u0027s role in facilitating cross-border surrogacy journeys, illustrating ethical considerations in travel."
+      }
+    },
+    {
+      "key": "2229",
+      "source": "26",
+      "target": "20",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Demand",
+        "description": "Media demands Local Authorities enforce stricter regulations on surrogacy clinics, emphasizing public safety and ethics. / Media demands Local Authorities enforce regulations on surrogacy clinics, addressing community safety concerns."
+      }
+    },
+    {
+      "key": "2230",
+      "source": "26",
+      "target": "25",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Demand",
+        "description": "UNCRC demands adherence from International Legal Frameworks to ensure child protection rights in surrogacy arrangements."
+      }
+    },
+    {
+      "key": "2231",
+      "source": "26",
+      "target": "27",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "Media encourages ECHR to publish updated guidelines on ethical surrogacy, addressing the role of IVF in child welfare. / Media encourages ECHR to standardize international laws around surrogate rights, ensuring consistent protections globally."
+      }
+    },
+    {
+      "key": "2232",
+      "source": "26",
+      "target": "29",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "Media encourages intended parents to thoroughly vet clinics offering IVF, promoting ethical decision-making."
+      }
+    },
+    {
+      "key": "2233",
+      "source": "26",
+      "target": "33",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "Media encourages families of surrogates to share experiences, promoting transparency about surrogacyÕs family impact."
+      }
+    },
+    {
+      "key": "2234",
+      "source": "26",
+      "target": "39",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "Media reports on the use of IVF technology in surrogacy, focusing on both its successes and ethical challenges."
+      }
+    },
+    {
+      "key": "2236",
+      "source": "27",
+      "target": "1",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "ECHR recommends BioTexCom provide clearer consent documentation in IVF procedures, protecting surrogate autonomy. / ECHR suggests BioTexCom adopt more transparent communication channels, improving trust in surrogacy processes."
+      }
+    },
+    {
+      "key": "2237",
+      "source": "27",
+      "target": "4",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Demand",
+        "description": "ECHR inspects Administrative StaffÕs handling of surrogate records to ensure ethical data management practices."
+      }
+    },
+    {
+      "key": "2238",
+      "source": "27",
+      "target": "5",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "ECHR recommends Marketing adopt ethical communication standards, avoiding exploitation of vulnerable populations."
+      }
+    },
+    {
+      "key": "2239",
+      "source": "27",
+      "target": "7",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "ECHR supports surrogate networkÕs advocacy by providing legal resources for surrogates facing international legal challenges."
+      }
+    },
+    {
+      "key": "2240",
+      "source": "27",
+      "target": "12",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "ECHR supports NGOsÕ advocacy by sharing insights on international surrogacy rights and legal precedents."
+      }
+    },
+    {
+      "key": "2241",
+      "source": "27",
+      "target": "14",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Allow",
+        "description": "ECHR collaborates with Human Rights Watch to monitor cross-border surrogacy practices, focusing on ethical and legal standards."
+      }
+    },
+    {
+      "key": "2242",
+      "source": "27",
+      "target": "16",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Demand",
+        "description": "ECHR monitors Tourism Agencies to ensure ethical promotion of cross-border surrogacy, preventing misinformation."
+      }
+    },
+    {
+      "key": "2243",
+      "source": "27",
+      "target": "17",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Demand",
+        "description": "ECHR regulates IVF TravelÕs client services to ensure that all arrangements respect surrogate and client rights."
+      }
+    },
+    {
+      "key": "2244",
+      "source": "27",
+      "target": "21",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "ECHR recommends Health Ministry improve health guidelines for surrogates, prioritizing mental health services."
+      }
+    },
+    {
+      "key": "2245",
+      "source": "27",
+      "target": "22",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "ECHR supports Family Law Code updates that protect surrogate and child welfare, emphasizing international alignment."
+      }
+    },
+    {
+      "key": "2246",
+      "source": "27",
+      "target": "25",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "ECHR suggests UNCRC enhance protections for surrogate-born children, reflecting international ethical standards."
+      }
+    },
+    {
+      "key": "2247",
+      "source": "27",
+      "target": "26",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "ECHR encourages media to increase awareness of surrogates\u0027 legal rights, promoting informed surrogacy discussions."
+      }
+    },
+    {
+      "key": "2248",
+      "source": "27",
+      "target": "29",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "ECHR encourages intended parents to consult ethical guidelines, promoting responsible surrogacy choices."
+      }
+    },
+    {
+      "key": "2249",
+      "source": "27",
+      "target": "35",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "ECHR suggests media highlight stories focused on surrogate and child welfare, promoting a balanced public view. / ECHR requests that media accurately report on international surrogacy challenges, promoting informed public discourse."
+      }
+    },
+    {
+      "key": "2250",
+      "source": "27",
+      "target": "39",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "ECHR requests IVF practices adhere to European ethical guidelines, ensuring respect for human rights in surrogacy."
+      }
+    },
+    {
+      "key": "2252",
+      "source": "28",
+      "target": "8",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Home Country Adoption Codes uses Refuse affordance towards Economically Motivated Surrogates regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2253",
+      "source": "28",
+      "target": "14",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Home Country Adoption Codes uses Permit affordance towards Human Rights Watch regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2254",
+      "source": "28",
+      "target": "15",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Home Country Adoption Codes uses Encourage affordance towards Stop Surrogacy Now regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2255",
+      "source": "28",
+      "target": "17",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Home Country Adoption Codes uses Demand affordance towards IVF Travel regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2256",
+      "source": "28",
+      "target": "18",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Home Country Adoption Codes uses Encourage affordance towards Tammuz Family regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2257",
+      "source": "28",
+      "target": "32",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Home Country Adoption Codes uses Refuse affordance towards Single Parent regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2258",
+      "source": "28",
+      "target": "36",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Home Country Adoption Codes uses Request affordance towards New York Times regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2260",
+      "source": "29",
+      "target": "7",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "Intended Parents network supports surrogate networks by providing resources to enhance surrogate well-being throughout the process."
+      }
+    },
+    {
+      "key": "2261",
+      "source": "29",
+      "target": "8",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "Intended Parents network encourages experienced surrogates to share insights, fostering supportive relationships."
+      }
+    },
+    {
+      "key": "2262",
+      "source": "29",
+      "target": "14",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "Intended Parents network requests Human Rights Watch provide ethical reviews of BioTexCom practices before contracting."
+      }
+    },
+    {
+      "key": "2263",
+      "source": "29",
+      "target": "16",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "Intended Parents network recommends Tourism Agencies provide ethical guidance to clients considering international surrogacy."
+      }
+    },
+    {
+      "key": "2264",
+      "source": "29",
+      "target": "19",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "Intended Parents network recommends Egg Donor \u0026 Surrogacy Institute improve donor health screening, prioritizing donor safety."
+      }
+    },
+    {
+      "key": "2267",
+      "source": "29",
+      "target": "20",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "Intended Parents network requests Local Authorities facilitate quicker parental rights documentation for surrogate-born children."
+      }
+    },
+    {
+      "key": "2268",
+      "source": "29",
+      "target": "26",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "Intended Parents network requests media highlight ethical surrogacy, guiding intended parents in responsible decision-making."
+      }
+    },
+    {
+      "key": "2269",
+      "source": "29",
+      "target": "33",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "Intended Parents network advocates for family-based support systems, emphasizing the role of family in surrogate care."
+      }
+    },
+    {
+      "key": "2271",
+      "source": "29",
+      "target": "39",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "Intended Parents network requests IVF clinics offer transparent communication about the risks and benefits of IVF procedures."
+      }
+    },
+    {
+      "key": "2273",
+      "source": "30",
+      "target": "8",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Queer Couples uses Permit affordance towards Economically Motivated Surrogates regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2274",
+      "source": "30",
+      "target": "24",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Queer Couples uses Allow affordance towards Local Authorities regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2275",
+      "source": "30",
+      "target": "25",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Queer Couples uses Request affordance towards International Legal Frameworks regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2276",
+      "source": "30",
+      "target": "26",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Queer Couples uses Permit affordance towards UNCRC regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2277",
+      "source": "30",
+      "target": "31",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Queer Couples uses Demand affordance towards Heterosexual Couples regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2278",
+      "source": "30",
+      "target": "32",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Queer Couples uses Permit affordance towards Single Parent regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2279",
+      "source": "30",
+      "target": "33",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Queer Couples uses Refuse affordance towards Families of Surrogates regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2280",
+      "source": "31",
+      "target": "7",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Heterosexual Couples uses Discourage affordance towards Surrogate Mothers regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2281",
+      "source": "31",
+      "target": "10",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Heterosexual Couples uses Refuse affordance towards Experienced Surrogates regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2282",
+      "source": "31",
+      "target": "12",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Heterosexual Couples uses Encourage affordance towards Non-Governmental Organizations regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2283",
+      "source": "31",
+      "target": "15",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Heterosexual Couples uses Refuse affordance towards Stop Surrogacy Now regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2284",
+      "source": "31",
+      "target": "17",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "Heterosexual Couples encourage IVF Travel to provide accessible surrogacy travel packages tailored to their needs."
+      }
+    },
+    {
+      "key": "2285",
+      "source": "31",
+      "target": "20",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Heterosexual Couples uses Refuse affordance towards Ukrainian Legal Frameworks regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2286",
+      "source": "31",
+      "target": "25",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Heterosexual Couples uses Encourage affordance towards International Legal Frameworks regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2287",
+      "source": "31",
+      "target": "39",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Heterosexual Couples uses Allow affordance towards IVF regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2288",
+      "source": "32",
+      "target": "4",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Single Parent uses Permit affordance towards Administrative Staff regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2289",
+      "source": "32",
+      "target": "8",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Single Parent uses Refuse affordance towards Economically Motivated Surrogates regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2290",
+      "source": "32",
+      "target": "15",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Single Parent uses Permit affordance towards Stop Surrogacy Now regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2291",
+      "source": "32",
+      "target": "17",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Single Parent uses Request affordance towards IVF Travel regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2292",
+      "source": "32",
+      "target": "28",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Single Parent uses Demand affordance towards Home Country Adoption Codes regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2293",
+      "source": "32",
+      "target": "33",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Single Parent uses Refuse affordance towards Families of Surrogates regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2294",
+      "source": "32",
+      "target": "36",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Single Parent uses Demand affordance towards New York Times regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2295",
+      "source": "32",
+      "target": "39",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Single Parent uses Request affordance towards IVF regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2296",
+      "source": "33",
+      "target": "3",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "Families of surrogates request Legal Team provide accessible explanations of contract terms, ensuring understanding."
+      }
+    },
+    {
+      "key": "2297",
+      "source": "33",
+      "target": "5",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "Families of surrogates support Marketing efforts by providing testimonials on surrogacyÕs impact, adding authenticity to promotions."
+      }
+    },
+    {
+      "key": "2299",
+      "source": "33",
+      "target": "12",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "Families of surrogates advocate through NGOs for better mental health support for surrogates post-birth."
+      }
+    },
+    {
+      "key": "2301",
+      "source": "33",
+      "target": "14",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "Families of surrogates support Human Rights WatchÕs advocacy by sharing experiences, amplifying calls for ethical reform."
+      }
+    },
+    {
+      "key": "2302",
+      "source": "33",
+      "target": "16",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "Families of surrogates request Tourism Agencies to consider family perspectives in travel arrangements for surrogates."
+      }
+    },
+    {
+      "key": "2303",
+      "source": "33",
+      "target": "17",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "Families of surrogates encourage IVF Travel to consider family-friendly accommodations, supporting family inclusivity."
+      }
+    },
+    {
+      "key": "2304",
+      "source": "33",
+      "target": "18",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "Families of surrogates encourage Tammuz Family to prioritize family dynamics in surrogacy arrangements, emphasizing the surrogateÕs well-being."
+      }
+    },
+    {
+      "key": "2305",
+      "source": "33",
+      "target": "22",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "Families of surrogates suggest Family Law Code amendments to enhance surrogate protection in IVF contracts."
+      }
+    },
+    {
+      "key": "2306",
+      "source": "33",
+      "target": "25",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Allow",
+        "description": "Families of surrogates allow UNCRC to monitor post-surrogacy child welfare, supporting global child rights advocacy. / Families of surrogates allow UNCRC representatives to examine the impact of surrogacy on children, aiding in child welfare advocacy."
+      }
+    },
+    {
+      "key": "2307",
+      "source": "33",
+      "target": "26",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "Families of surrogates request media depict the emotional experiences of surrogacy, providing a more humane perspective."
+      }
+    },
+    {
+      "key": "2309",
+      "source": "33",
+      "target": "29",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "Families of surrogates recommend Intended Parents network focus on emotional support, recognizing surrogates\u0027 family needs."
+      }
+    },
+    {
+      "key": "2310",
+      "source": "33",
+      "target": "39",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "Families of surrogates request IVF clinics provide transparent information on medical procedures, aiding surrogate decision-making."
+      }
+    },
+    {
+      "key": "2312",
+      "source": "34",
+      "target": "11",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Surrogate-Born Babies uses Encourage affordance towards First Time Surrogates regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2313",
+      "source": "34",
+      "target": "12",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Surrogate-Born Babies uses Request affordance towards Non-Governmental Organizations regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2314",
+      "source": "34",
+      "target": "16",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Surrogate-Born Babies uses Request affordance towards Tourism Agencies regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2315",
+      "source": "34",
+      "target": "18",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Surrogate-Born Babies uses Allow affordance towards Tammuz Family regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2316",
+      "source": "34",
+      "target": "25",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Surrogate-Born Babies uses Allow affordance towards International Legal Frameworks regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2317",
+      "source": "34",
+      "target": "37",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Surrogate-Born Babies uses Request affordance towards BBC News regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2318",
+      "source": "34",
+      "target": "39",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Surrogate-Born Babies uses Request affordance towards IVF regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2319",
+      "source": "35",
+      "target": "3",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "Media advocates for Legal Team transparency in contract processes, encouraging ethical contract terms for surrogates."
+      }
+    },
+    {
+      "key": "2321",
+      "source": "35",
+      "target": "7",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "Media highlights surrogate networksÕ advocacy work, raising awareness of the collective effort to protect surrogates."
+      }
+    },
+    {
+      "key": "2322",
+      "source": "35",
+      "target": "8",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "Media requests experienced surrogates share stories of IVF challenges, adding authenticity to coverage on surrogacy."
+      }
+    },
+    {
+      "key": "2323",
+      "source": "35",
+      "target": "12",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Allow",
+        "description": "Media partners with NGOs to amplify advocacy messages on surrogate rights, focusing on health and well-being."
+      }
+    },
+    {
+      "key": "2324",
+      "source": "35",
+      "target": "14",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "Media requests that Human Rights Watch provide updates on global surrogacy ethics to inform public discussions."
+      }
+    },
+    {
+      "key": "2325",
+      "source": "35",
+      "target": "17",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "Media encourages IVF Travel to promote ethically certified clinics, raising standards for international surrogacy."
+      }
+    },
+    {
+      "key": "2326",
+      "source": "35",
+      "target": "18",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "Media encourages Tammuz Family to adopt inclusive language in their advertisements, promoting ethical and accessible surrogacy."
+      }
+    },
+    {
+      "key": "2327",
+      "source": "35",
+      "target": "19",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "Media promotes Egg Donor \u0026 Surrogacy Institute by covering stories about ethical egg donation, educating the public."
+      }
+    },
+    {
+      "key": "2329",
+      "source": "35",
+      "target": "20",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "Media requests Local Authorities publish data on surrogacy-related health incidents, raising awareness of clinic practices."
+      }
+    },
+    {
+      "key": "2330",
+      "source": "35",
+      "target": "22",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "Media reports on Family Law Code updates, providing the public with information on changes in surrogacy regulations."
+      }
+    },
+    {
+      "key": "2332",
+      "source": "35",
+      "target": "25",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Demand",
+        "description": "Media demands UNCRC address ethical considerations for surrogate-born children, raising awareness on international rights."
+      }
+    },
+    {
+      "key": "2333",
+      "source": "35",
+      "target": "39",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Discourage",
+        "description": "Media critiques IVF technology use, highlighting surrogate experiences and the physical demands IVF places on them."
+      }
+    },
+    {
+      "key": "2334",
+      "source": "36",
+      "target": "1",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Critique",
+        "description": "New York Times critiques BioTexCom Clinic\u0027s commercial practices, questioning ethics in the surrogacy industry."
+      }
+    },
+    {
+      "key": "2335",
+      "source": "36",
+      "target": "9",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "New York Times uses Request affordance towards Conflict Resilient Surrogates regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2336",
+      "source": "36",
+      "target": "14",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Highlight",
+        "description": "New York Times highlights Human Rights Watch’s findings on exploitation risks in international surrogacy."
+      }
+    },
+    {
+      "key": "2338",
+      "source": "36",
+      "target": "15",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "New York Times uses Discourage affordance towards Stop Surrogacy Now regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2339",
+      "source": "36",
+      "target": "17",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "New York Times uses Request affordance towards IVF Travel regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2340",
+      "source": "36",
+      "target": "19",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "New York Times uses Encourage affordance towards Egg Donor \u0026 Surrogacy Institute regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2341",
+      "source": "36",
+      "target": "35",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "New York Times uses Demand affordance towards Media and Journals regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2342",
+      "source": "37",
+      "target": "2",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "BBC News uses Permit affordance towards Medical Staff regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2343",
+      "source": "37",
+      "target": "11",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "BBC News uses Allow affordance towards First Time Surrogates regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2344",
+      "source": "37",
+      "target": "13",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "BBC News uses Request affordance towards La Strada Ukraine regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2346",
+      "source": "37",
+      "target": "18",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "BBC News uses Refuse affordance towards Tammuz Family regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2347",
+      "source": "37",
+      "target": "25",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "BBC News uses Permit affordance towards International Legal Frameworks regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2348",
+      "source": "37",
+      "target": "26",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "BBC News uses Request affordance towards UNCRC regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2349",
+      "source": "37",
+      "target": "33",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "BBC News uses Discourage affordance towards Families of Surrogates regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2350",
+      "source": "38",
+      "target": "2",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Al Jazeera uses Discourage affordance towards Medical Staff regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2351",
+      "source": "38",
+      "target": "9",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Al Jazeera uses Discourage affordance towards Conflict Resilient Surrogates regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2352",
+      "source": "38",
+      "target": "15",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "Al Jazeera encourages Stop Surrogacy Now to raise awareness on ethical concerns related to commercial surrogacy."
+      }
+    },
+    {
+      "key": "2353",
+      "source": "38",
+      "target": "16",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Al Jazeera uses Encourage affordance towards Tourism Agencies regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2354",
+      "source": "38",
+      "target": "18",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Al Jazeera uses Refuse affordance towards Tammuz Family regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2355",
+      "source": "38",
+      "target": "25",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Al Jazeera uses Encourage affordance towards International Legal Frameworks regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2356",
+      "source": "38",
+      "target": "30",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Al Jazeera uses Allow affordance towards Queer Couples regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2357",
+      "source": "38",
+      "target": "32",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Al Jazeera uses Discourage affordance towards Single Parent regarding surrogacy and related regulations.",
+        "description": "null"
+      }
+    },
+    {
+      "key": "2358",
+      "source": "39",
+      "target": "3",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "IVF technology requests Legal Team draft contracts that cover IVF-specific risks, safeguarding surrogate rights."
+      }
+    },
+    {
+      "key": "2359",
+      "source": "39",
+      "target": "5",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "IVF technology highlights its transformative potential in Marketing materials, showcasing its central role in surrogacy. / IVF technology promotes its benefits through Marketing Team materials, emphasizing scientific advances in surrogacy."
+      }
+    },
+    {
+      "key": "2360",
+      "source": "39",
+      "target": "7",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "IVF technology advises surrogate network on necessary health checks and physical requirements. / IVF technology guides surrogate network on health practices, aiming to minimize health risks for surrogates."
+      }
+    },
+    {
+      "key": "2362",
+      "source": "39",
+      "target": "8",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "IVF technology informs experienced surrogates of new medical practices, helping them stay updated on safety protocols."
+      }
+    },
+    {
+      "key": "2364",
+      "source": "39",
+      "target": "12",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Allow",
+        "description": "IVF technology allows NGOs to observe health protocols within clinics, ensuring ethical IVF practices are upheld. / IVF technology allows NGOs to monitor health impacts on surrogates, ensuring ethical practice adherence."
+      }
+    },
+    {
+      "key": "2365",
+      "source": "39",
+      "target": "14",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "IVF technology requests Human Rights Watch review IVF procedures to identify any ethical issues, aiming to ensure ethical practices."
+      }
+    },
+    {
+      "key": "2367",
+      "source": "39",
+      "target": "16",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Allow",
+        "description": "IVF technology coordinates with Tourism Agencies, ensuring IVF clinics meet the expectations of international clients."
+      }
+    },
+    {
+      "key": "2368",
+      "source": "39",
+      "target": "17",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "IVF technology supports IVF TravelÕs logistics by allowing streamlined processes, reducing travel complications. / IVF technology facilitates IVF TravelÕs scheduling, ensuring timely travel for clients based on medical needs."
+      }
+    },
+    {
+      "key": "2370",
+      "source": "39",
+      "target": "18",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "IVF technology facilitates the Tammuz FamilyÕs client intake process, streamlining IVF scheduling for international clients."
+      }
+    },
+    {
+      "key": "2371",
+      "source": "39",
+      "target": "20",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Demand",
+        "description": "IVF technology is regulated by Local Authorities, ensuring clinics operate within local health and safety laws."
+      }
+    },
+    {
+      "key": "2372",
+      "source": "39",
+      "target": "22",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Demand",
+        "description": "IVF technology demands updated Family Law Code provisions to address technological advances, safeguarding all parties involved. / IVF technology demands Family Law Code address consent complexities in IVF procedures, ensuring surrogate autonomy."
+      }
+    },
+    {
+      "key": "2373",
+      "source": "39",
+      "target": "26",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Allow",
+        "description": "IVF technology allows media access to procedural details, providing transparency for journalistic coverage."
+      }
+    },
+    {
+      "key": "2374",
+      "source": "39",
+      "target": "27",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Demand",
+        "description": "IVF technology complies with ECHR guidelines on ethical use, ensuring IVF practices meet international standards."
+      }
+    },
+    {
+      "key": "2375",
+      "source": "39",
+      "target": "33",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "IVF technology notifies families of surrogates about potential health impacts, ensuring family awareness of medical risks."
+      }
+    },
+    {
+      "key": "2376",
+      "source": "39",
+      "target": "35",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "IVF technology features prominently in media coverage, with outlets highlighting both its benefits and ethical concerns."
+      }
+    },
+    {
+      "key": "2380",
+      "source": "13",
+      "target": "14",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "La Strada Ukraine requests collaboration from Human Rights Watch to monitor human rights issues within the surrogacy industry."
+      }
+    },
+    {
+      "key": "2381",
+      "source": "36",
+      "target": "30",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Highlight",
+        "description": "New York Times highlights the challenges faced by Queer Couples in accessing surrogacy services internationally."
+      }
+    },
+    {
+      "key": "2382",
+      "source": "23",
+      "target": "24",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Demand",
+        "description": "The Civil Code demands that Local Authorities enforce surrogacy regulations to prevent exploitation."
+      }
+    },
+    {
+      "key": "2383",
+      "source": "32",
+      "target": "19",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "Single Parent requests information from Egg Donor \u0026 Surrogacy Institute regarding single-parent surrogacy options."
+      }
+    },
+    {
+      "key": "2385",
+      "source": "24",
+      "target": "7",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Permit",
+        "description": "Local Authorities permit Surrogate Mothers to engage in surrogacy arrangements under regulated conditions."
+      }
+    },
+    {
+      "key": "2387",
+      "source": "9",
+      "target": "11",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Support",
+        "description": "Conflict Resilient Surrogates support First Time Surrogates by offering guidance on managing surrogacy during unstable conditions."
+      }
+    },
+    {
+      "key": "2388",
+      "source": "37",
+      "target": "7",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "BBC News encourages Surrogate Mothers to share personal experiences, highlighting the realities of surrogacy."
+      }
+    },
+    {
+      "key": "2389",
+      "source": "2",
+      "target": "7",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Demand",
+        "description": "Medical Staff demand compliance with health protocols from Surrogate Mothers to safeguard health during pregnancy."
+      }
+    },
+    {
+      "key": "2390",
+      "source": "14",
+      "target": "24",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "Human Rights Watch requests Local Authorities to ensure that surrogate rights are protected under local laws."
+      }
+    },
+    {
+      "key": "2391",
+      "source": "30",
+      "target": "17",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "Queer Couples request IVF Travel to provide services that address legal complexities for LGBTQ+ families in surrogacy."
+      }
+    },
+    {
+      "key": "2392",
+      "source": "9",
+      "target": "5",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Allow",
+        "description": "Conflict Resilient Surrogates allow Marketing and International Liaisons to promote resilient surrogacy services abroad."
+      }
+    },
+    {
+      "key": "2394",
+      "source": "13",
+      "target": "12",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "La Strada Ukraine encourages Non-Governmental Organizations to collaborate on human rights advocacy in surrogacy."
+      }
+    },
+    {
+      "key": "2395",
+      "source": "32",
+      "target": "3",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "Single Parent requests legal consultation from Legal and Compliance Team on single-parent surrogacy regulations."
+      }
+    },
+    {
+      "key": "2396",
+      "source": "17",
+      "target": "30",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "IVF Travel encourages Queer Couples to explore international surrogacy options tailored to LGBTQ+ families."
+      }
+    },
+    {
+      "key": "2398",
+      "source": "28",
+      "target": "39",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Regulate",
+        "description": "Home Country Adoption Codes regulate IVF procedures in surrogacy to comply with national standards on family structure."
+      }
+    },
+    {
+      "key": "2400",
+      "source": "19",
+      "target": "24",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Partner",
+        "description": "Egg Donor \u0026 Surrogacy Institute partners with Local Authorities to ensure ethical standards in surrogacy services."
+      }
+    },
+    {
+      "key": "2401",
+      "source": "12",
+      "target": "9",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Support",
+        "description": "Non-Governmental Organizations support Conflict Resilient Surrogates to ensure stable and ethical surrogacy options."
+      }
+    },
+    {
+      "key": "2402",
+      "source": "31",
+      "target": "18",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Encourage",
+        "description": "Heterosexual Couples encourage Tammuz Family to expand services for traditional family building options in surrogacy."
+      }
+    },
+    {
+      "key": "2403",
+      "source": "9",
+      "target": "14",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Allow",
+        "description": "Conflict Resilient Surrogates allow Human Rights Watch access to monitor ethical practices in regions affected by conflict."
+      }
+    },
+    {
+      "key": "2404",
+      "source": "3",
+      "target": "24",
+      "attributes": {
+        "weight": 1.0,
+        "affordance": "Request",
+        "description": "Legal and Compliance Team requests clear guidelines from Local Authorities to align surrogacy practices with legal standards."
+      }
+    }
+  ]
+}
